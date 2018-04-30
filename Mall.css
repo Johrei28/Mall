@@ -2,3 +2,48 @@
 	color: 屎黄色；
 }
 
+body{
+    font-family: Lato, sans-serif;
+    color:#2d3c49;
+    font-weight: bold;
+}
+
+.text-line{
+	size:15px;
+    color: #7d97ad;
+}
+
+.introduce{
+	margin-top:20px;
+	margin-bottom:20px;
+	
+}
+
+.shop-logos{
+	margin-left: 11%;
+	margin-right: 11%;
+}
+.footer-image{
+	text-align: center;
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    margin:15px 15px 15px 15px;
+}
+
+.button{
+	width: 150px;
+    height: 40px;
+	border-radius: 300px;
+	margin-bottom: 20px;
+	background: #5ea4d1;
+}
+.full{
+	width:100%;
+}
+
+.inline{
+	display:inline;
+}
